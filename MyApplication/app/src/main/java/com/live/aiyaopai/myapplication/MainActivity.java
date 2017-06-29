@@ -11,5 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 //todo
 //todo
+//知识电商——粉丝界面的完成
     }
 }
