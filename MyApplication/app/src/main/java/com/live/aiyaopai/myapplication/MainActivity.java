@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
 //todo
 //todo
 //知识电商——粉丝界面的完成
+//完成项目的迁移
     }
 }
